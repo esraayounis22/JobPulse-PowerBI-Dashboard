@@ -1,15 +1,20 @@
-
 # 📊 JobPulse Dashboard
 
-## 📌 Project Overview
+An interactive **Power BI** dashboard that analyzes job market trends using the **Wuzzuf Job Postings** dataset. The dashboard helps identify hiring patterns, in-demand roles, industries, and locations through interactive visualizations.
 
-JobPulse is an interactive Power BI dashboard built using the Wuzzuf job postings dataset. The dashboard helps analyze hiring trends, job demand, company industries, job locations, and application statistics to provide valuable insights into the job market.
+---
+
+## 📷 Dashboard Preview
+
+<p align="center">
+  <img src="dashboard.png" alt="JobPulse Dashboard" width="100%">
+</p>
 
 ---
 
 ## 🎯 Business Objective
 
-Analyze job market data to identify hiring patterns, popular job positions, industry demand, and geographical distribution of opportunities.
+The goal of this project is to analyze job postings and transform raw data into actionable insights that help understand hiring trends and the current job market.
 
 ---
 
@@ -22,35 +27,37 @@ Analyze job market data to identify hiring patterns, popular job positions, indu
 
 ---
 
-## 📷 Dashboard Preview
+## 📈 Dashboard Highlights
 
-![Dashboard](dashboard.png)
-
----
-
-## 📈 Key Insights
-
-* Identified monthly hiring trends.
-* Analyzed job postings by industry.
-* Compared job position types.
-* Highlighted the most applied job titles.
-* Visualized job locations on an interactive map.
-* Calculated KPIs such as Total Job Postings, Average Experience, and Applications.
+* Total Job Postings
+* Total Applications
+* Average Experience Required
+* Hiring Trends Over Time
+* Jobs by Industry
+* Job Types Distribution
+* Interactive Location Map
+* Top Job Titles
 
 ---
 
-## 📁 Project Files
+## 💡 Key Insights
 
-* JobPulse.pbix
-* dashboard.png
+* Technology-related positions represent a significant share of job postings.
+* Full-time jobs dominate the available opportunities.
+* Hiring activity changes noticeably across different months.
+* Interactive filters allow users to explore the data from multiple perspectives.
 
 ---
 
-## 🚀 Skills Demonstrated
+## 📂 Repository Contents
 
-* Data Cleaning
-* Data Modeling
-* DAX Measures
-* Data Visualization
-* Dashboard Design
-* Business Intelligence
+* `JobPulse.pbix`
+* `dashboard.png`
+
+---
+
+## 👩‍💻 Author
+
+**Esraa Younis**
+
+Data Analyst | Power BI | Tableau | SQL | Python | Excel
