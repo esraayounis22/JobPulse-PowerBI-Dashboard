@@ -1,24 +1,32 @@
 # 📊 JobPulse Dashboard
 
-An interactive **Power BI** dashboard that analyzes job market trends using the **Wuzzuf Job Postings** dataset. The dashboard helps identify hiring patterns, in-demand roles, industries, and locations through interactive visualizations.
+## Interactive Power BI Dashboard for Job Market Analysis
+
+JobPulse is an interactive Power BI dashboard built using the Wuzzuf Job Postings dataset.
+
+It provides valuable insights into hiring trends, job demand, industries, applications, and locations through interactive visualizations.
 
 ---
 
-## 📷 Dashboard Preview
+# 📷 Dashboard Preview
 
 <p align="center">
-  <img src="dashboard.png" alt="JobPulse Dashboard" width="100%">
+
+<img src="dashboard.png" width="100%">
+
 </p>
 
 ---
 
-## 🎯 Business Objective
+# 🎯 Business Problem
 
-The goal of this project is to analyze job postings and transform raw data into actionable insights that help understand hiring trends and the current job market.
+Recruiters and job seekers need a simple way to understand hiring trends and explore the job market.
+
+This dashboard transforms raw job posting data into interactive insights that support better decision-making.
 
 ---
 
-## 🛠 Tools & Technologies
+# 🛠️ Tools
 
 * Power BI
 * Power Query
@@ -27,37 +35,37 @@ The goal of this project is to analyze job postings and transform raw data into 
 
 ---
 
-## 📈 Dashboard Highlights
+# 📈 Dashboard Features
 
 * Total Job Postings
 * Total Applications
-* Average Experience Required
-* Hiring Trends Over Time
-* Jobs by Industry
-* Job Types Distribution
-* Interactive Location Map
+* Average Experience
+* Monthly Hiring Trend
+* Job Industry Analysis
+* Job Type Distribution
+* Interactive Map
 * Top Job Titles
 
 ---
 
-## 💡 Key Insights
+# 💡 Key Insights
 
-* Technology-related positions represent a significant share of job postings.
-* Full-time jobs dominate the available opportunities.
-* Hiring activity changes noticeably across different months.
-* Interactive filters allow users to explore the data from multiple perspectives.
-
----
-
-## 📂 Repository Contents
-
-* `JobPulse.pbix`
-* `dashboard.png`
+* Technology companies publish the highest number of vacancies.
+* Full-time jobs dominate the market.
+* Hiring trends vary by month.
+* Interactive filters enable dynamic exploration.
 
 ---
 
-## 👩‍💻 Author
+# 📂 Repository Files
+
+* JobPulse.pbix
+* dashboard.png
+
+---
+
+# 👩‍💻 Author
 
 **Esraa Younis**
 
-Data Analyst | Power BI | Tableau | SQL | Python | Excel
+Data Analyst
